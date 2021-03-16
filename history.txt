@@ -1,0 +1,1000 @@
+ 1027  nano de791254c644d4cfaef43a36541f7d70a9aa7cb4
+ 1028  nano README.md 
+ 1029  git diff
+ 1030  git add .
+ 1031  git commit
+ 1032  cat README.md 
+ 1033  git push
+ 1034  git checkout Mike
+ 1035  cat Readme.md
+ 1036  cat README.md 
+ 1037  nano README.md 
+ 1038  git checkout Henry
+ 1039  nano README.md 
+ 1040  git remote -v
+ 1041  git remote add upstream https://github.com/drami025/git-game.git
+ 1042  git remote -v
+ 1043  git checkout master
+ 1044  git remote -v
+ 1045  git pull upstream master
+ 1046  cat README.md 
+ 1047  clear
+ 1048  cd ~
+ 1049  cd kappa
+ 1050  cd Mario-Project/
+ 1051  clear
+ 1052  ls -a
+ 1053  cd mario
+ 1054  node generateMap.js 
+ 1055  clear
+ 1056  node generateMap.js 
+ 1057  clear
+ 1058  node generateMap.js 
+ 1059  clear
+ 1060  node generateMap.js 
+ 1061  clear
+ 1062  node generateMap.js 
+ 1063  clear
+ 1064  node generateMap.js 
+ 1065  git checkout -b enemy
+ 1066  git status
+ 1067  git branch
+ 1068  git status
+ 1069  git add enemy
+ 1070  git push --set-upsteam origin enemy
+ 1071  git push --set-upstream origin enemy
+ 1072  git status
+ 1073  git add enemy.js
+ 1074  git add generateMap.js 
+ 1075  git commit
+ 1076  git push
+ 1077  git push -u origin enemy
+ 1078  git status
+ 1079  git chechout .
+ 1080  git checkout master
+ 1081  git checkout main
+ 1082  git pull
+ 1083  git checkout enemy
+ 1084  git merge master
+ 1085  git merge main
+ 1086  git merge --continue
+ 1087  git status
+ 1088  git add .
+ 1089  git commit
+ 1090  git push
+ 1091  node index.js
+ 1092  cd kappa/
+ 1093  cd Mario-Project/
+ 1094  cd mario
+ 1095  ls -a
+ 1096  git pull
+ 1097  ls -a
+ 1098  node generateMap.js 
+ 1099  clear
+ 1100  node generateMap.js 
+ 1101  clear
+ 1102  node generateMap.js 
+ 1103  clear
+ 1104  node generateMap.js 
+ 1105  clear
+ 1106  node generateMap.js 
+ 1107  cd ..
+ 1108  mkdir html
+ 1109  cd html
+ 1110  clear
+ 1111  git status
+ 1112  cd ..
+ 1113  cd Mario-Project/
+ 1114  cd mario/
+ 1115  git status
+ 1116  cd ..
+ 1117  git status
+ 1118  git clone git@github.com:flowacademyhu/kappa-super-mario.git
+ 1119  cd kappa-super-mario/
+ 1120  code.
+ 1121  code .
+ 1122  git checkout -b enemy
+ 1123  code .
+ 1124  clear
+ 1125  node index.js
+ 1126  cd Mario-Project/
+ 1127  cd mario/
+ 1128  node generateMap.js 
+ 1129  git add enemy.js 
+ 1130  git commit
+ 1131  git push
+ 1132  git pull
+ 1133  git branch
+ 1134  git merge
+ 1135  git pull
+ 1136  git branch
+ 1137  git checkout main
+ 1138  git pull
+ 1139  git fetch
+ 1140  git pull
+ 1141  git stash
+ 1142  git pull
+ 1143  git move
+ 1144  git status
+ 1145  git add enemy.js
+ 1146  git commit
+ 1147  git push
+ 1148  git pull
+ 1149  cd kappa
+ 1150  cd Mario-Project/
+ 1151  cd mario/
+ 1152  node index.js 
+ 1153  clear
+ 1154  node index.js 
+ 1155  clear
+ 1156  node index.js 
+ 1157  cd ..
+ 1158  cd kappa-super-mario/
+ 1159  node index.js 
+ 1160  clear
+ 1161  node index.js 
+ 1162  clear
+ 1163  node index.js 
+ 1164  clear
+ 1165  node index.js 
+ 1166  cd kappa/
+ 1167  cd Mario-Project/
+ 1168  cd mario/
+ 1169  ndoe node index.js 
+ 1170  node index.js 
+ 1171  cd ..
+ 1172  cd kappa-super-mario/
+ 1173  node index.js 
+ 1174  clear
+ 1175  clear
+ 1176  node index.js 
+ 1177  clear
+ 1178  node index.js 
+ 1179  clear
+ 1180  node index.js 
+ 1181  cd ..
+ 1182  git clone https://github.com/git-game/git-game-v2.git
+ 1183  ls -a
+ 1184  cd git-game-v2/
+ 1185  ls -a
+ 1186  cat README.md 
+ 1187  git ls files
+ 1188  git ls-files
+ 1189  git ls-a
+ 1190  ls -a
+ 1191  git checkout 28
+ 1192  ls -a
+ 1193  cat README.md 
+ 1194  git checkout 23
+ 1195  ls -a
+ 1196  cat README.md 
+ 1197  git checkout 24
+ 1198  ls -a
+ 1199  cat README.md 
+ 1200  git ls | grep AllFiles
+ 1201  git log | grap Allfiles
+ 1202  git log | grep Allfiles
+ 1203  git checkout 22
+ 1204  ls -a
+ 1205  cat README.md 
+ 1206  git checkout 25
+ 1207  ls -a
+ 1208  cat README.md 
+ 1209  git checkout 50
+ 1210  ls -a
+ 1211  cat README.md 
+ 1212  git ls-files
+ 1213  cat README.md 
+ 1214  git branch -a
+ 1215  git checkout main
+ 1216  git checkout master
+ 1217  ls-a
+ 1218  ls -a
+ 1219  cat AllFiles
+ 1220  cat README.md 
+ 1221  git ls-files
+ 1222  git checkout 26
+ 1223  ls -a
+ 1224  cat README.md 
+ 1225  git checkout 30
+ 1226  ls -a
+ 1227  cat README.md 
+ 1228  git checkout 23
+ 1229  ls -a
+ 1230  git README.md
+ 1231  cat README.md 
+ 1232  git ls --help
+ 1233  git --help
+ 1234  git status
+ 1235  git help ls
+ 1236  git checkout master
+ 1237  ls -a
+ 1238  git ls AllFiles
+ 1239  git ls-AllFiles
+ 1240  git ls files
+ 1241  git-ls-files
+ 1242  cat README.md 
+ 1243  git ls-files
+ 1244  git checkout 26
+ 1245  cat README.md 
+ 1246  git checkout 28
+ 1247  ls -a
+ 1248  cat README.md 
+ 1249  git show files
+ 1250  git checkout master
+ 1251  git show Allfiles
+ 1252  git show
+ 1253  git 0b71c5cbc29d5e4387ca67764e45822905e517e1
+ 1254  git checkout 0b71c5cbc29d5e4387ca67764e45822905e517e1
+ 1255  git switch -a
+ 1256  git checkout 780
+ 1257  ls -a
+ 1258  cat README.md 
+ 1259  ls -a
+ 1260  cat README.md 
+ 1261  git checkout master
+ 1262  git ls-files | xargs wc -l
+ 1263  git checkout 6813
+ 1264  git checkout 6861
+ 1265  ls -a
+ 1266  cat README.md 
+ 1267  git show
+ 1268  git log --pretty=oneline
+ 1269  git show 16a28de
+ 1270  git checkout snowden
+ 1271  ls -a
+ 1272  cat README.md 
+ 1273  git log
+ 1274  git show 84b015b
+ 1275  git shortlog
+ 1276  git checkout John Dixon
+ 1277  git shortlog --group
+ 1278  git shortlog -n
+ 1279  git shortlog -c
+ 1280  git shortlog -s
+ 1281  git chekcout anon
+ 1282  git checkout anon
+ 1283  ls -a
+ 1284  cat README.md 
+ 1285  git describe 
+ 1286  git checkout return
+ 1287  git describe man
+ 1288  git describe
+ 1289  describe man
+ 1290  git checkout anon
+ 1291  ls -a
+ 1292  cat README.md 
+ 1293  git describe
+ 1294  git describe -all
+ 1295  git describe --all
+ 1296  ls -a
+ 1297  cat README.md 
+ 1298  git describe --tag
+ 1299  git checkout return
+ 1300  git describe --tag
+ 1301  git checkout return
+ 1302  ls -a
+ 1303  cat README.md 
+ 1304  git checkout pretty
+ 1305  ls -a
+ 1306  cat README.md 
+ 1307  git log pretty
+ 1308  git checkout b959b3
+ 1309  history
+ 1310  git log pretty
+ 1311  git log pretty %T %H 3331d0b
+ 1312  git log %T3331d0b
+ 1313  git log %T 3331d0b
+ 1314  git log 3331d0b %T
+ 1315  git log --pretty=format:"%h 3331d0b %T
+ 1316  git log pretty=format: %H 3331d0b %T
+ 1317  git log pretty=format %T 3331d0b %T
+ 1318  git log pretty=format "%T %H" 3331d0b
+ 1319  git log --pretty=format:"%t %s" | grep 3331d0b
+ 1320  git checkout SIGPOLL
+ 1321  ls -a
+ 1322  cat README.md 
+ 1323  git submodule
+ 1324  cd ..
+ 1325  cd Mario-Project/
+ 1326  cd kappa-super-mario/
+ 1327  node index.js 
+ 1328  git status
+ 1329  git add enemy.js 
+ 1330  git add generateMap.js 
+ 1331  git add index.js 
+ 1332  git commit
+ 1333  git push
+ 1334  cd kappa
+ 1335  cd Mario-Project/
+ 1336  cd kappa-super-mario/
+ 1337  ls -a
+ 1338  git branch -a
+ 1339  git fetch origin
+ 1340  git merge main
+ 1341  git status
+ 1342  git add enemy.js 
+ 1343  git commit
+ 1344  git push
+ 1345  git status
+ 1346  git checkout main
+ 1347  git status
+ 1348  git checkout
+ 1349  git checkout enemy
+ 1350  git status
+ 1351  git merge
+ 1352  git status
+ 1353  git log
+ 1354  git merge main enemy
+ 1355  git merge enemy main
+ 1356  git status
+ 1357  git diff
+ 1358  git diff main enemy
+ 1359  git status
+ 1360  git pull origin main
+ 1361  git status
+ 1362  node index.js
+ 1363  cd kappa
+ 1364  cd Mario-Project/
+ 1365  cd kappa-super-mario/
+ 1366  node index.js 
+ 1367  cd kappa/
+ 1368  cd Mario-Project/
+ 1369  cd kappa-super-mario/
+ 1370  node index.js 
+ 1371  cd kappa
+ 1372  cd Mario-Project/
+ 1373  cd kappa-super-mario/
+ 1374  node index.js
+ 1375  git restore
+ 1376  cd kappa
+ 1377  cd Mario-Project/
+ 1378  cd kappa-super-mario/
+ 1379  git restore
+ 1380  git log
+ 1381  git restore ad3648e3d8e0eb44318db55575c967f357758f95
+ 1382  cd Mario-Project/
+ 1383  cd mari
+ 1384  cd mario/
+ 1385  ls -a
+ 1386  node index.js
+ 1387  cd ..
+ 1388  cd kappa-super-mario/
+ 1389  node index.js 
+ 1390  cd kap
+ 1391  cd Mario-Project/
+ 1392  cd kappa-super-mario/
+ 1393  node index.js
+ 1394  cd Mario-Project/
+ 1395  cd kappa-super-mario/
+ 1396  node index.js
+ 1397  apt install netcat
+ 1398  sudo apt-get install netcat
+ 1399  nc 
+ 1400  nc exemple.com 80
+ 1401  cd kappa
+ 1402  nano hello.txt
+ 1403  { echo -ne "HTTP/1.0 200 OK\r\nContent-Length: $(wc -c <hello.txt)\r\n\r\n"; cat hello.txt; } | nc -l 8080
+ 1404  apt-get install dnsutil
+ 1405  apt-get install dnsutils
+ 1406  sudo apt-get install dnsutils
+ 1407  dig google.com
+ 1408  dig facebook.com
+ 1409  nc localhost 5000
+ 1410  nc -l 192.168.5.63.5000
+ 1411  nc -l 5000
+ 1412  idconfig
+ 1413  ifconfig
+ 1414  apt-get unpdate
+ 1415  apt-get undate
+ 1416  apt-get update
+ 1417  sudo apt-get install
+ 1418  ifconfig
+ 1419  nc -l 192.168.5.63
+ 1420  nc 192.168.5.63
+ 1421  nc 192.168.5.63 5000
+ 1422  nc -l 5000
+ 1423  nc -l 5001 > kep.jpeg
+ 1424  nc -l 5001
+ 1425  nc -l 5001 > kep.jpeg
+ 1426  nc -l 5001
+ 1427  cd kapp
+ 1428  cd kappa/
+ 1429  cd Mario-Project/
+ 1430  cd kappa-super-mario/
+ 1431  git fetch
+ 1432  git pull main
+ 1433  git status
+ 1434  git merge --abort
+ 1435  git status
+ 1436  git merge --abort
+ 1437  git statusű
+ 1438  git status
+ 1439  git rm README.md 
+ 1440  git status
+ 1441  git rm generateMap.js 
+ 1442  git rm index.js 
+ 1443  git status
+ 1444  git merge --abort
+ 1445  git restore bigMapgeneration.js
+ 1446  git restore enemy.js
+ 1447  git status
+ 1448  git merge --abort
+ 1449  git status
+ 1450  git pull
+ 1451  git pull main
+ 1452  git checkout main
+ 1453  git checkout enemy
+ 1454  git pull main
+ 1455  git pull origin main
+ 1456  git fetch
+ 1457  cd Mario-Project/
+ 1458  cd kappa-super-mario/
+ 1459  node index.js 
+ 1460  git fetch
+ 1461  git pull origin main
+ 1462  node index.js 
+ 1463  cd kappa
+ 1464  cd Mario-Project/
+ 1465  cd kappa-super-mario/
+ 1466  node index.js
+ 1467  gi status
+ 1468  git status
+ 1469  git add enemy.js
+ 1470  git add generateMap.js 
+ 1471  git add marioDeath.js 
+ 1472  git add tesztBigMapgeneration.js
+ 1473  git commit
+ 1474  git push
+ 1475  git fetch
+ 1476  clear
+ 1477  node index.js
+ 1478  git status
+ 1479  git add marioCharacter.js 
+ 1480  git add marioMovement.js 
+ 1481  git commit
+ 1482  git push
+ 1483  kész
+ 1484  pusholva
+ 1485  node index.js
+ 1486  node install xev-emitter
+ 1487  node instal xev-emitter
+ 1488  node install xev-emitter
+ 1489  nvm install xev-emitter
+ 1490  npm install xev-emitter
+ 1491  node index.js
+ 1492  cd kappa/
+ 1493  cd Mario-Project/
+ 1494  cd kappa-super-mario/
+ 1495  node index.js
+ 1496  cd Mario-Project/
+ 1497  cd kappa-super-mario/
+ 1498  node index.js
+ 1499  cd kappa/
+ 1500  cd Mario-Project/
+ 1501  cd kappa-super-mario/
+ 1502  node index.js 
+ 1503  cd kappa/
+ 1504  cd Mario-Project/
+ 1505  cd kappa-super-mario/
+ 1506  git checkout main
+ 1507  git status
+ 1508  git add enemy.js 
+ 1509  git add
+ 1510  git add .
+ 1511  git status
+ 1512  git sommit
+ 1513  git commit
+ 1514  git push
+ 1515  git checkout main
+ 1516  git merge enemy
+ 1517  git status
+ 1518  git push .
+ 1519  git status
+ 1520  git checkout enemy
+ 1521  git status
+ 1522  git checkout main
+ 1523  git push
+ 1524  git status
+ 1525  node index.js 
+ 1526  cd kappa/
+ 1527  cd Mario-Project/
+ 1528  cd kappa-super-mario/
+ 1529  node index.js 
+ 1530  cd kappa/
+ 1531  cs Mario-Project/
+ 1532  cd Mario-Project/
+ 1533  cd kappa-super-mario/
+ 1534  node index.js 
+ 1535  cd kappa/
+ 1536  cd Mario-Project/
+ 1537  cd kappa-super-mario/
+ 1538  node index.js 
+ 1539  git status
+ 1540  git checkout enemy
+ 1541  git status
+ 1542  git add .
+ 1543  git status
+ 1544  git commit
+ 1545  git push
+ 1546  git status
+ 1547  git push
+ 1548  git status
+ 1549  git checkout main
+ 1550  git fetch
+ 1551  git pull origin enemy
+ 1552  git status
+ 1553  git merge
+ 1554  node index.js
+ 1555  git merge
+ 1556  git status
+ 1557  git add .
+ 1558  git commit
+ 1559  git push
+ 1560  git status
+ 1561  node index.js
+ 1562  git fetch
+ 1563  git status
+ 1564  git pull
+ 1565  git fetch
+ 1566  git status
+ 1567  git pull origin main
+ 1568  git restore marioMovement.js
+ 1569  git pull origin main
+ 1570  git status
+ 1571  node index.js
+ 1572  git checkout enemy
+ 1573  git status
+ 1574  git checkout enemy
+ 1575  git add .
+ 1576  git commit
+ 1577  git push origin enemy 
+ 1578  git fetch enemy
+ 1579  git fetch
+ 1580  git status
+ 1581  git push origin enemy
+ 1582  git checkout enemy
+ 1583  git push
+ 1584  git status
+ 1585  git fetch
+ 1586  git status
+ 1587  git checkout main
+ 1588  git status
+ 1589  git add.
+ 1590  git add .
+ 1591  git commit 
+ 1592  git push
+ 1593  git checkout main
+ 1594  git status
+ 1595  git push 
+ 1596  git checkout main
+ 1597  git restore items.js
+ 1598  git chekcout main
+ 1599  git checkout main
+ 1600  git status
+ 1601  git restore --staged items.js
+ 1602  git status
+ 1603  git restore
+ 1604  git restore items.js
+ 1605  git status
+ 1606  git checkout main
+ 1607  git status
+ 1608  git add.
+ 1609  git status
+ 1610  git add .
+ 1611  git commit
+ 1612  git status
+ 1613  git checkout enemy
+ 1614  git commit
+ 1615  git merge main
+ 1616  git checkout enemy
+ 1617  git merge main
+ 1618  git log --oneline --graph
+ 1619  git log --oneline --graph --all
+ 1620  git status
+ 1621  git push
+ 1622  git status
+ 1623  git checkout main
+ 1624  git reset --hard origin/main
+ 1625  git status
+ 1626  git checkout enemy
+ 1627  node index.js 
+ 1628  cd kappa
+ 1629  cd Mario-Project/
+ 1630  cd kappa-super-mario/
+ 1631  node index.js 
+ 1632  git status
+ 1633  git add .
+ 1634  git commit
+ 1635  git push
+ 1636  cd kap
+ 1637  cd kappa/
+ 1638  cd Mario-Project/
+ 1639  cd kappa-super-mario/
+ 1640  git fetch
+ 1641  git status
+ 1642  git merge origin main
+ 1643  git pull
+ 1644  node index.js 
+ 1645  git status
+ 1646  node index.js 
+ 1647  npm install chalk
+ 1648  node index.js 
+ 1649  clear
+ 1650  node index.js 
+ 1651  npm i audio-play
+ 1652  node index.js 
+ 1653  npm i audio-loader
+ 1654  node index.js 
+ 1655  cd kappa/
+ 1656  cd Mario-Project/
+ 1657  cd kappa-super-mario/
+ 1658  node index.js 
+ 1659  npm i audioplayr
+ 1660  node index.js 
+ 1661  npm i sound-play
+ 1662  node index.js 
+ 1663  cd ..
+ 1664  cd mario/
+ 1665  npm i play-sound
+ 1666  node index.js 
+ 1667  npm i audic
+ 1668  node index.js 
+ 1669  cd ..
+ 1670  cd kappa-super-mario/
+ 1671  npm i audic
+ 1672  node index.js 
+ 1673  cd kappa/
+ 1674  cd Mario-Project/
+ 1675  cd kappa-super-mario/
+ 1676  node index.js 
+ 1677  git clear
+ 1678  claer
+ 1679  clear
+ 1680  git status
+ 1681  git add.
+ 1682  git add .
+ 1683  git commit
+ 1684  git push
+ 1685  git status
+ 1686  git checkout main
+ 1687  git fetch
+ 1688  git pull 
+ 1689  git pull origin enemy
+ 1690  git checkout enemy
+ 1691  git checkout main
+ 1692  node index.js 
+ 1693  q
+ 1694  node index.js 
+ 1695  node index.js 
+ 1696  git status
+ 1697  git checkout teszt
+ 1698  git checkout -b test
+ 1699  git checkout teszt
+ 1700  git checkout -b teszt
+ 1701  git add .
+ 1702  git commit
+ 1703  git push 
+ 1704  git push --set-upsteam origin teszt
+ 1705  git push --set-upstream origin teszt
+ 1706  cd kappa/
+ 1707  cd Mario-Project/
+ 1708  cd kappa-super-mario/
+ 1709  node index.js
+ 1710  cd kappa/
+ 1711  cd Mario-Project/
+ 1712  cd kappa-super-mario/
+ 1713  node index.js
+ 1714  cd kappa/
+ 1715  cd Mario-Project/
+ 1716  cd kappa-super-mario/
+ 1717  node index.js 
+ 1718  cd kappa/
+ 1719  cd Mario-Project/
+ 1720  cd kappa-super-mario/
+ 1721  node index.js 
+ 1722  cd kappa/
+ 1723  cd Mario-Project/
+ 1724  cd kappa-super-mario/
+ 1725  node index.js 
+ 1726  git status
+ 1727  git fetch
+ 1728  git status
+ 1729  git pull
+ 1730  node index.js 
+ 1731  git status
+ 1732  git add .
+ 1733  git commit
+ 1734  git push
+ 1735  git status
+ 1736  git checkout main
+ 1737  git pull origin teszt
+ 1738  git fetch
+ 1739  git status
+ 1740  git pull origin teszt
+ 1741  git status
+ 1742  git pull origin teszt
+ 1743  git checkout teszt
+ 1744  git checkout main
+ 1745  git pull
+ 1746  git status
+ 1747  git log
+ 1748  git push
+ 1749  git status
+ 1750  node index.js 
+ 1751  git status
+ 1752  git checkout enemy
+ 1753  git status
+ 1754  git fetch
+ 1755  git status
+ 1756  git add .
+ 1757  git commit
+ 1758  git checkout -b valami
+ 1759  git status
+ 1760  git pull main
+ 1761  git pull origin main
+ 1762  git push
+ 1763  git push --set-upstream origin valami
+ 1764  git status
+ 1765  git add .
+ 1766  git commit
+ 1767  git push 
+ 1768  git status
+ 1769  git status
+ 1770  node index.js 
+ 1771  git status
+ 1772  git add .
+ 1773  git commit
+ 1774  git push
+ 1775  git checkout main
+ 1776  git fetch
+ 1777  git status
+ 1778  git pull
+ 1779  git status
+ 1780  git add .
+ 1781  git commit
+ 1782  git status
+ 1783  git push
+ 1784  git status
+ 1785  node index.js
+ 1786  git status
+ 1787  git add.
+ 1788  node index.js 
+ 1789  git add .
+ 1790  git commit
+ 1791  git push 
+ 1792  git checkout valami
+ 1793  git status
+ 1794  git merge origin main
+ 1795  git status
+ 1796  git commit
+ 1797  git add .
+ 1798  git commit
+ 1799  git status
+ 1800  git push
+ 1801  git pull origin main
+ 1802  node index.js 
+ 1803  git status
+ 1804  git add .
+ 1805  git commit
+ 1806  git push
+ 1807  git status
+ 1808  node index.js 
+ 1809  git status
+ 1810  clear
+ 1811  node index.js 
+ 1812  clear
+ 1813  node index.js 
+ 1814  git status
+ 1815  git add .
+ 1816  git commit
+ 1817  git push
+ 1818  git status
+ 1819  git pull orgigin main
+ 1820  git pull origin main
+ 1821  node index.js 
+ 1822  git status
+ 1823  node index.js 
+ 1824  git status
+ 1825  git add .
+ 1826  git commit 
+ 1827  git status
+ 1828  git push
+ 1829  git push origin main
+ 1830  git status
+ 1831  git checkout main
+ 1832  git pull origin valami
+ 1833  git status
+ 1834  git fetch
+ 1835  git status
+ 1836  git add .
+ 1837  git push
+ 1838  git status
+ 1839  git checkout valami
+ 1840  clear
+ 1841  node index.js
+ 1842  cd kappa/
+ 1843  cd Mario-Project/
+ 1844  cd kappa-super-mario/
+ 1845  node index.js 
+ 1846  cd kappa/
+ 1847  cd Mario-Project/
+ 1848  cd kappa-super-mario/
+ 1849  node index.hu
+ 1850  node index.js
+ 1851  git status
+ 1852  git fetch
+ 1853  git pull origin main
+ 1854  git restore ujGenerateMap.js
+ 1855  git pull origin main
+ 1856  node index.js
+ 1857  git checkout valami
+ 1858  git pull origin main
+ 1859  git fetch
+ 1860  git status
+ 1861  git pull origin main
+ 1862  git status
+ 1863  git push
+ 1864  git status
+ 1865  node index.js
+ 1866  cd kappa/
+ 1867  cd Mario-Project/
+ 1868  cd kappa-super-mario/
+ 1869  node index.js
+ 1870  git status
+ 1871  node index.js 
+ 1872  git add .
+ 1873  git commit
+ 1874  git push
+ 1875  git status
+ 1876  node index.js 
+ 1877  npm list -g --depth=0
+ 1878  pwd
+ 1879  git status
+ 1880  git stash
+ 1881  git status
+ 1882  sudo apt-get install mpg123
+ 1883  pwd
+ 1884  npm install mpg123
+ 1885  npm uninstall audic
+ 1886  npm install mpg123
+ 1887  npm uninstall audic
+ 1888  node index.js 
+ 1889  git status
+ 1890  git add.
+ 1891  git commit
+ 1892  git add .
+ 1893  git commit
+ 1894  git push
+ 1895  git checkout main
+ 1896  git fetch
+ 1897  git status
+ 1898  git checkout valami
+ 1899  git pull origin main
+ 1900  git status
+ 1901  git push origin main
+ 1902  git fetch
+ 1903  git status
+ 1904  git push
+ 1905  git push origin main
+ 1906  git checkout main
+ 1907  git pull origin valami
+ 1908  git status
+ 1909  nod index.js
+ 1910  node index.js
+ 1911  git status
+ 1912  git checkout valami
+ 1913  git status
+ 1914  git checkout main
+ 1915  git pull origin valami
+ 1916  git status
+ 1917  node index.js
+ 1918  git status
+ 1919  git push
+ 1920  git status
+ 1921  git pull origin main
+ 1922  git status
+ 1923  git fetch
+ 1924  git status
+ 1925  git pull
+ 1926  node index.js
+ 1927  cd kappa/
+ 1928  cd Mario-Project/
+ 1929  cd kappa-super-mario/
+ 1930  node index.js
+ 1931  node index.js 
+ 1932  node index.js
+ 1933  cd kappa/
+ 1934  cd Mario-Project/
+ 1935  cd kappa-super-mario/
+ 1936  node index.js
+ 1937  cd kappa/
+ 1938  cd Mario-Project/
+ 1939  cd kappa-super-mario/
+ 1940  node index.js
+ 1941  node index.js 
+ 1942  cd ..
+ 1943  cd mario/
+ 1944  node index.js 
+ 1945  cd kappa/
+ 1946  cd Mario-Project/
+ 1947  cd kappa-super-mario/
+ 1948  git checkout -- .
+ 1949  git status
+ 1950  git checkout valami
+ 1951  git checkout -- .
+ 1952  git status
+ 1953  cd /
+ 1954  ls
+ 1955  cd ~
+ 1956  pwd
+ 1957  ls -a
+ 1958  cd ..
+ 1959  ls
+ 1960  rm -r jonka
+ 1961  ls
+ 1962  rm -r jonka 
+ 1963  ls
+ 1964  rm -rf jonka
+ 1965  sudo rm -rf jonka
+ 1966  ls
+ 1967  man rm
+ 1968  history
+ 1969  cd ~
+ 1970  cd kappa/
+ 1971  mkdir Bomberman
+ 1972  cd Bomberman/
+ 1973  git clone git@github.com:flowacademyhu/theta-bomberman.git
+ 1974  ls -a
+ 1975  cd theta-bomberman/
+ 1976  ls
+ 1977  node main.js
+ 1978  cd ..
+ 1979  git clone git@github.com:flowacademyhu/iota_emoji_wars.git
+ 1980  ls
+ 1981  cd iota_emoji_wars/
+ 1982  ls
+ 1983  cat README.md 
+ 1984  ls -a
+ 1985  cd ..
+ 1986  ls
+ 1987  cd iota_emoji_wars/
+ 1988  ls -a
+ 1989  cd ..
+ 1990  git clone git@github.com:flowacademyhu/iota_math-invaders.git
+ 1991  ls
+ 1992  git iota_math-invaders/
+ 1993  ls
+ 1994  cd iota_math-invaders/
+ 1995  ls
+ 1996  node index.js 
+ 1997  cd kappa/
+ 1998  cd Bomberman/
+ 1999  git clone git@github.com:flowacademyhu/theta-adventure.git
+ 2000  cd ..
+ 2001  cd ~
+ 2002  mkdir szakaszzaro
+ 2003  cd szakaszzaro/
+ 2004  touch szakaszzaro_feladat
+ 2005  echo "Hello" > szakaszzaro_feladat
+ 2006  ls
+ 2007  cat szakaszzaro_feladat
+ 2008  mv szakaszzaro_feladat feladat
+ 2009  ls
+ 2010  cp feladat feladat2
+ 2011  ls
+ 2012  rm -r feladat2
+ 2013  ls
+ 2014  cat feladat 
+ 2015  grep "NetworkManager" /var/log/syslog | cat >> feladat
+ 2016  cat feladat
+ 2017  git clone git@github.com:Andras92/szakaszzaro.git
+ 2018  ls -a
+ 2019  cd szakaszzaro/
+ 2020  ls -a
+ 2021  mv cd ..
+ 2022  cd ..
+ 2023  ls
+ 2024  git status
+ 2025  cd szakaszzaro1
+ 2026  history | cat >> history.txt
